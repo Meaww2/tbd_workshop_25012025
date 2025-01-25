@@ -6,9 +6,7 @@
 
 function say_hello() {
     // CODE HERE!!!
-    console.log("What is your name hahahaha?")
-    console.log("Komsan")
-    
+
 }
 
 // Don’t change the code under this comment!
